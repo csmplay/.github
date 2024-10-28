@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" alt="banner" width="50%"/>
+<img src="CSM-git-team.jpg" alt="banner" width="75%"/>
 </p>
 
 **Cyber Sport Masters** - молодая киберспортивная организация с большими
