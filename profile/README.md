@@ -20,10 +20,10 @@ Here you can find the source code for some of the software used in our
 tournaments.
 
 <a href="https://vk.com/csmpro">
-<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/vk.png" alt="VK" width="5%"/></a>
+<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/vk.svg" alt="VK" height="40px"/></a>
 <a href="https://t.me/csmpro">
-<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/telegram.png" alt="Telegram" width="5%"/></a>
+<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/telegram.svg" alt="Telegram" height="40px"/></a>
 <a href="https://www.twitch.tv/csm_cast">
-<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/twitch.png" alt="Twitch" width="4%"/></a>
+<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/twitch.svg" alt="Twitch" height="40px"/></a>
 <a href="https://www.youtube.com/channel/UCbHkpHluFczAcT3cr3oWARw">
-<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/youtube.png" alt="YouTube" width="6%"/></a>
+<img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/youtube.svg" alt="YouTube" height="40px"/></a>
