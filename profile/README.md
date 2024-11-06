@@ -7,6 +7,18 @@
 
 Мы проводим турниры по SSBU, MK8D и другим проектам.
 
+Здесь вы можете найти исходный код некоторого ПО, используемого на наших
+турнирах
+
+---
+
+**Cyber Sport Masters** is a young eSports organization with big ambitions.
+
+We host tournaments for games like SSBU, MK8D and other titles.
+
+Here you can find the source code for some of the software used in our
+tournaments.
+
 <a href="https://vk.com/csmpro">
 <img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/vk.png" alt="VK" width="5%"/></a>
 <a href="https://t.me/csmpro">
@@ -15,5 +27,3 @@
 <img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/twitch.png" alt="Twitch" width="4%"/></a>
 <a href="https://www.youtube.com/channel/UCbHkpHluFczAcT3cr3oWARw">
 <img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/icons/youtube.png" alt="YouTube" width="6%"/></a>
-
-Здесь вы найдете исходный код некоторого ПО используемого на наших турнирах
