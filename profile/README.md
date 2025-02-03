@@ -4,7 +4,7 @@
 
 **Cyber Sport Masters** is a young eSports organization with big ambitions.
 
-We host tournaments for games like SSBU, MK8D and other titles.
+We host tournaments for Nintendo games in Russia.
 
 Here you can find the source code for some of the software used in our
 tournaments.
