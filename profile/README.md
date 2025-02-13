@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/csmplay/.github/refs/heads/main/profile/CSM-git-team.jpg" alt="banner" width="75%"/>
 </p>
 
-**Cyber Sport Masters (CSM)** is a young eSports organization with big ambitions.
+**CyberSport Masters (CSM)** is a young eSports organization with big ambitions.
 
 We host tournaments for Nintendo games in Russia.
 
